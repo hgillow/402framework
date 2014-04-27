@@ -1,0 +1,75 @@
+/**
+ * theme.css - default css styling for 402 framework user theme 'hannah'
+ */
+
+/*header no.3*/
+h3 {
+font-size: 17px;
+font-weight: normal;
+color: #1a3852;
+}
+
+/*header*/
+div.header {
+background-color: #E1E2E6;
+}
+
+/*sidebar*/
+div.sidebar_left {
+height:100%;
+width:100%;
+font-size: 11px;
+padding-bottom:75px;
+}
+
+/*sidebar title metadata HOT MESS*/
+div.sidebar_left div.title {
+font-size: 17px;
+color: #2f3833;
+margin: 10px;
+padding: 10px;
+}
+
+/*sidebar title metadata*/
+div.sidebar_left div.description {
+margin: 5px;
+padding: 5px;
+font-size: 12px;
+color: #2f3833;
+background-color: #e1e2e6;
+}
+
+/*sidebar metadata source, */
+div.sidebar_left div.meta_source, div.meta_subject, div.meta_creator {
+margin:5px;
+padding:5px;
+color: #2f3833;
+border: #666666 solid 0.5px;
+
+}
+/* search button styling*/
+input[type="submit"] {
+
+    
+    font-family: Optima;
+    font-size: 11px;
+    text-decoration: none;
+    cursor: pointer;
+    background-color:#E1E2E1;
+    color: #666666;
+    border:#666666 1px solid; 
+}
+
+input[type="submit"]:hover {
+    border: 2px solid #ffffff;
+}
+/* search box styling
+input[type="text"]:hover {
+    border: 2px solid #4aa1e2;
+}
+
+table[title="Search Results"] th {
+text-decoration: none;
+color:#666666;
+}
+*/

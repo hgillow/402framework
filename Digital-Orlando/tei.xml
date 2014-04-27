@@ -1,0 +1,854 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet rel="stylesheet" type="text/css" href="rs.css" alternate="plaintei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    
+    <teiHeader>
+        <fileDesc>
+
+            <titleStmt>
+                <title>Electronic Edition of the first UK edition of Woolf's "Orlando: A
+                    Biography"</title>
+                <author> Virginia Woolf </author>
+                <principal>Hannah Gillow Kloster</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p><!--Publication Information--></p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Virginia Woolf</author>
+                    <title>Orlando: A Biography</title>
+                    <publisher>Hogarth Press</publisher>
+                    <date>1928</date>
+                    <note/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <titlePage>
+                <docTitle>
+                    <titlePart>Orlando</titlePart>
+                    <titlePart> A Biography</titlePart>
+                </docTitle>
+                <docAuthor>
+                    <rs type="person">
+                        <forename>Virginia</forename>
+                        <surname>Woolf</surname>
+                    </persName>
+                </docAuthor>
+                <docImprint>
+                    <pubPlace>New York</pubPlace>
+                    <publisher>Harcourt, Brace and Company</publisher>
+                </docImprint>
+            </titlePage>
+            <docImprint> Copyright, <docDate>1928</docDate> by <rs type="person">Virginia
+                Woolf</persName><lb/> Typography by <rs type="person">Frederic Warde</persName>. <lb/>
+                Composition by <orgName>Printing House of <rs type="person">William Edwin
+                    Rudge</persName></orgName>. <lb/> Printed in the <country>United States of
+                    America</country>by <orgName>Quinn &amp; Boden Company, Inc.</orgName>,
+                        <placeName>Rahway,<abbr type="State"> N.J.</abbr></placeName>. </docImprint>
+        </front>
+        <body>
+            <div type="chapter" n="3">
+                <pb n="1"/>
+                <lb/>
+                <fw type="header" rend="centre"> CHAPTER THREE</fw>
+                <p>It is,indeed, highly unfortunate, and much to be re-<lb/>gretted that at this
+                    stage of <rs type="person" key="OrM">Orlando</persName>°s career, when <lb/>he played a
+                    most important part in the public life of his <lb/>country, we have least
+                    information to go upon. We <lb/>know that he discharged his duties to
+                    admiration— wit-<lb/>ness his Bath and his Dukedom. We know that he had a
+                    <lb/>finger in some of the most delicate negotiations between <lb/>King Charles
+                    and the Turks— to that, treaties in the <lb/>vault of the Record Office bear
+                    testimony. But the revo- <lb/>lution which broke out during his period of
+                    office, and <lb/>the fire which followed, have so damaged or destroyed <lb/>all
+                    those papers from which any trustworthy record <lb/>could be drawn, that what we
+                    can give is lamentably in- <lb/>complete. Often the paper was scorched a deep
+                    brown <lb/>in the middle of the most important sentence. Just when <lb/>we
+                    thought to elucidate a secret that has puzzled his- <lb/>torians for a hundred
+                    years, there was a hole in the man- <lb/>uscript big enough to put your finger
+                    through. We have <lb/>done our best to piece out a meagre summary from the
+                    <lb/>charred fragments that remain; but often it has been <lb/>necessary to
+                    speculate, to surmise, and even to make use <lb/>of the imagination.</p>
+                <lb/>
+                <fw type="pageNum" rend="center" n="119">119</fw>
+                <pb n="2"/>
+                <lb/>
+                <fw type="header" rend="center">ORLANDO</fw>
+                <p>Orlando’s day was passed, it would seem, somewhat <lb/>in this fashion. About
+                    seven, he would rise, wrap him <lb/>self in a long Turkish cloak, light a
+                    cheroot, and lean his <lb/>elbows on the parapet. Thus he would stand, gazing at
+                    <lb/>the city beneath him, apparently entranced. At this hour <lb/>the mist
+                    would lie so thick that the domes of Santa Sofia <lb/>and the rest would seem to
+                    be afloat; gradually the mist <lb/>would uncover them; the bubbles would be seen
+                    to be <lb/>firmly fixed; there would be the river; there the Galata <lb/>Bridge;
+                    there the green turbanned pilgrims without eyes <lb/>or noses, begging alms;
+                    there the pariah dogs picking up <lb/>offal; there the shawled women; there the
+                    innumerable <lb/>donkeys; there men on horses carrying long poles. Soon,
+                    <lb/>the whole town would be astir with the cracking of <lb/>whips, the beating
+                    of gongs, cryings to prayer, lashing <lb/>of mules, and rattle of brass-bound
+                    wheels, while sour <lb/>odours, made from bread fermenting and incense, and
+                    <lb/>spice, rose even to the heights of Pera itself and seemed <lb/>the very
+                    breath of the strident and multicoloured and <lb/>barbaric population.</p>
+
+                <p>Nothing, he reflected, gazing at the view which was <lb/>now sparkling in the
+                    sun, could well be less like the <lb/>counties of Surrey and Kent or the towns
+                    of London and <lb/>Tunbridge Wells. To the right and left rose in bald and
+                    <lb/>stony prominence the inhospitable Asian mountains, to <lb/>which the arid
+                    castle of a robber chief or two might <lb/><fw type="pageNum" rend="center"
+                        n="120">120</fw>
+                    <pb n="3"/>
+                    <lb/><fw type="header" rend="center">ORLANDO</fw>
+                    <lb/>hang; but parsonage there was none, nor manor house, <lb/>nor cottage, nor
+                    oak, elm, violet, ivy, or wild eglantine. <lb/>There were no hedges for ferns to
+                    grow on, and no <lb/>fields for sheep to graze. The houses were bare and bald
+                    <lb/>as egg-shells. That he, who was English root and fibre, <lb/>should yet
+                    exult to the depths of his heart in this wild <lb/>panorama, and gaze and gaze
+                    at those passes and far <lb/>heights, planning journeys there alone on foot
+                    where <lb/>only the goat and shepherd had gone before; should feel <lb/>a
+                    passion of affection for the bright, unseasonable flow- <lb/>ers, love the
+                    unkempt, pariah dogs beyond even his elk <lb/>hounds at home, and snuff the
+                    acrid, sharp smell of the <lb/>streets eagerly into his nostrils, surprised him.
+                    He won- <lb/>dered if, in the season of the Crusades, one of his ances-
+                    <lb/>tors had taken up with a Circassian peasant woman; <lb/>thought it
+                    possible; fancied a certain darkness in his <lb/>complexion; and, going indoors
+                    again, withdrew to his <lb/>bath. </p>
+                <p>An hour later, properly scented, curled, and anointed <lb/>he would receive
+                    visits from secretaries and other high <lb/>officials carrying, one after
+                    another, red boxes which <lb/>yielded only to his own golden key. `Within were
+                    papers <lb/>of the highest importance, of which only fragments, here <lb/>a
+                    flourish, there a seal firmly attached to a piece of burnt <lb/>silk, now
+                    remain. Of their contents then, we cannot <lb/>speak, but can only testify that
+                    Orlando was kept busy, <lb/><fw type="pageNum" rend="center" n="121">121</fw>
+                    <pb n="4"/>
+                    <lb/><fw type="header" rend="center">ORLANDO</fw>
+                    <lb/>what with his wax and seals, his various coloured rib- <lb/>bons which had
+                    to be diversely attached, his engrossing <lb/>of titles and making of flourishes
+                    round capital letters, <lb/>till luncheon came— a splendid meal of perhaps
+                    thirty <lb/>courses. </p>
+                <p>After luncheon, lackeys announced that his coach and <lb/>six was at the door and
+                    he went, preceded by purple <lb/>Janissaries running on foot and waving great
+                    ostrich <lb/>feather fans above their heads, to call upon the other
+                    <lb/>ambassadors and dignitaries of state. The ceremony was <lb/>always the
+                    same. On reaching the courtyard, the Janis- <lb/>saries struck with their fans
+                    upon the main portal, which <lb/>immediately flew open revealing a large
+                    chamber, splen- <lb/>didly furnished. Here were seated two figures, gener-
+                    <lb/>ally of the opposite sexes. Profound bows and curtseys <lb/>were exchanged.
+                    In the first room, it was permissible <lb/>only to mention the weather. Having
+                    said that it was <lb/>fine or wet, hot or cold, the Ambassador then passed on
+                    <lb/>to the next chamber, where again, two figures rose to <lb/>greet him. Here
+                    it was only permissible to compare Con- <lb/>stantinople as a place of residence
+                    with London; and the <lb/>Ambassador naturally said that he preferred Constanti-
+                    <lb/>nople, and his hosts naturally said, though they had not <lb/>seen it, that
+                    they preferred London. In the next cham- <lb/>ber, King Charles’s and the
+                    Sultan’s healths had to be <lb/>discussed at some length. In the next were
+                    discussed the <lb/><fw type="pageNum" rend="center" n="122">122</fw>
+                    
+                    <pb n="5"/>
+                    <lb/><fw type="header" rend="center">ORLANDO</fw>
+                    <lb/>Ambassador’s health and that of his host’s wife, but more <lb/>briefly. In
+                    the next the Ambassador complimented his <lb/>host upon his furniture, and the
+                    host complimented the <lb/>Ambassador upon his dress. ln the next, sweet meats
+                    <lb/>were offered, the host deploring their badness, the Am- <lb/>bassador
+                    extolling their goodness. The ceremony ended <lb/>at length with the smoking of
+                    a hookah and the drink- <lb/>ing of a glass of coffee; but though the motions of
+                    smok- <lb/>ing and drinking were gone through punctiliously there <lb/>was
+                    neither tobacco in the pipe nor coffee in the glass, <lb/>as, had either smoke
+                    or drink been real, the human frame <lb/>would have sunk beneath the surfeit.
+                    For, no sooner had <lb/>the Ambassador despatched one such visit, than another
+                    <lb/>had to be undertaken. The same ceremonies were gone <lb/>through in
+                    precisely the same order six or seven times <lb/>over at the houses of the other
+                    great officials, so that it <lb/>was often late at night before the Ambassador
+                    reached <lb/>home. Though Orlando performed these tasks to admi- <lb/>ration and
+                    never denied that they are, perhaps, the most <lb/>important part of a
+                    diplomatist’s duties, he was undoubt- <lb/>edly fatigued by them, and often
+                    depressed to such a <lb/>pitch of gloom that he preferred to take his dinner
+                    alone <lb/>with his dogs. To them, indeed he might be heard talk- <lb/>ing in
+                    his own tongue. And sometimes, it is said, he <lb/>would pass out of his own
+                    gates late at night so disguised <lb/>that the sentries did not know him. Then
+                    he would <lb/><fw type="pageNum" rend="center" n="123">123</fw>
+                    <pb n="6"/>
+                    <lb/><fw type="header" rend="center">ORLANDO</fw>
+                    <lb/>mingle with the crowd on the Galata Bridge: or stroll <lb/>through the
+                    bazaars; or throw aside his shoes and join <lb/>the worshippers in the Mosques.
+                    Once,when it was given <lb/>out that he was ill of a fever, shepherds, bringing
+                    their <lb/>goats to market, reported that they had met an English <lb/>Lord on
+                    the mountain top and heard him praying to his <lb/>God. This was thought to be
+                    Orlando himself, and his <lb/>prayer was, no doubt, a poem said aloud, for it
+                    was <lb/>known that he still carried about with him, in the bosom <lb/>of his
+                    cloak, a much-scored manuscript; and servants, <lb/>listening at the door, heard
+                    the Ambassador chanting <lb/>something in an odd, sing-song voice when he was
+                    alone. </p>
+                <p>
+                    <lb/>It is with fragments such as these that we must do <lb/>our best to make up
+                    a picture of Orlando's life and char- <lb/>acter at this time. There exist, even
+                    to this day , rumours, <lb/>legends, anecdotes of a floating and unauthenticated
+                    <lb/>kind about Orlando's life in Constantinople (we have <lb/>quoted but a few
+                    of them) - which go to prove that he pos- <lb/>sessed, now that he was in the
+                    prime of life, the power to <lb/>stir the fancy and rivet the eye which will
+                    keep a memory <lb/>green long after all that more durable qualities can do to
+                    <lb/>preserve it is forgotten. The power is a mysterious one <lb/>compounded of
+                    beauty, birth, and some rarer gift, which <lb/>we may call glamour and have done
+                    with it. “A million <lb/>candles," as Sasha had said, burnt in him without his
+                    <lb/>being at the trouble of lighting a single one. He moved <lb/><fw
+                        type="pageNum" rend="center" n="124">124</fw>
+                    <pb n="7"/>
+                    <lb/><fw type="header" rend="center">ORLANDO</fw>
+                    <lb/>like a stag, without any need to think about his legs. He <lb/>spoke in his
+                    ordinary voice and echo beat a silver gong. <lb/>Hence rumours gathered round
+                    him. He became the <lb/>adored of many women and some men. It was not neces-
+                    <lb/>sary that they should speak to him or even that they <lb/>should see him;
+                    they conjured him up before them espe- <lb/>cially when the scenery was
+                    romantic, or the sun was <lb/>setting, the figure of a noble gentleman in silk
+                    stockings. <lb/>Upon the poor and uneducated, he had the same power <lb/>as upon
+                    the rich. Shepherds, gipsies, donkey drivers, still <lb/>sing songs about the
+                    English Lord “who dropped his <lb/>emeralds in the well,” which undoubtedly
+                    refer to Or- <lb/>lando, who once it seems tore his jewels from him in a
+                    <lb/>moment of rage or intoxication and flung them in a foun- <lb/>tain; whence
+                    they were fished by a page boy. But this <lb/>romantic power,it is well known,
+                    is often associated with <lb/>a nature of extreme reserve. Orlando seems to have
+                    <lb/>made no friends. As far as is known, he formed no at- <lb/>tachments. A
+                    certain great lady came all the way from <lb/>England in order to be near him,
+                    and pestered him with <lb/>her attentions, but he continued to discharge his
+                    duties <lb/>so indefatigably that he had not been Ambassador at <lb/>the Horn
+                    more than two years and a half before King <lb/>Charles signified his intention
+                    of raising him to the high- <lb/>est rank in the peerage. The envious said that
+                    this was <lb/>Nell Gwyn’s tribute to the memory of a leg. But, as she <lb/><fw
+                        type="pageNum" rend="center" n="125">125</fw>
+                    <pb n="8"/>
+                    <lb/><fw type="header" rend="center">ORLANDO</fw>
+                    <lb/>had seen him once only, and was then busily engaged in <lb/>pelting her
+                    royal master with nutshells, it is likely that <lb/>it was his merits that won
+                    him his Dukedom, not his <lb/>calves. </p>
+                <p>
+                    <lb/>Here we must pause, for we have reached a moment <lb/>of great signihcance
+                    in his career. For the conferring of <lb/>the Dukedom was the occasion of a very
+                    famous, and in <lb/>deed, much disputed incident, which we must now de-
+                    <lb/>scribe, picking our way among burnt papers and little <lb/>bits of tape as
+                    best we may. It was at the end of the great <lb/>fast of Ramadan that the Order
+                    of the Bath and the <lb/>patent of nobility arrived in a frigate commanded by
+                    Sir <lb/>Adrian Scrope; and Orlando made this the occasion for <lb/>an
+                    entertainment more splendid than any that has been <lb/>known before or since in
+                    Constantinople. The night was <lb/>fine; the crowd immense, and the windows of
+                    the Em- <lb/>bassy brilliantly illuminated. Again, details are lacking, <lb/>for
+                    the fire had its way with all such records, and has left <lb/>only tantalising
+                    fragments which leave the most impor- <lb/>tant points obscure. From the diary
+                    of ]ohn Fenner <lb/>Brigge, however, an English naval officer, who was
+                    <lb/>among the guests, we gather that people of all national- <lb/>ities “were
+                    packed like herrings in a barrel" in the court- <lb/>yard. The crowd pressed so
+                    unpleasantly close that <lb/>Brigge soon climbed into a Judas tree, the better
+                    to ob- <lb/>serve the proceedings. The rumour had got about among <lb/><fw
+                        type="pageNum" rend="center" n="126">126</fw>
+                    <pb n="9" type="illustration"/>
+                    <pb n="10" type="back_of_illustration"/>
+                    <pb n="11"/>
+                    <lb/><fw type="header" rend="center">ORLANDO</fw>
+                    <lb/>the natives (and here is additional proof of Orlando’s <lb/>mysterious
+                    power over the imagination) that some kind <lb/>of miracle was to be performed.
+                    "Thus," writes Brigge <lb/>(but his manuscript is full of burns and holes, some
+                    sen- <lb/>tences being quite illegible) “when the rockets began <lb/>to soar
+                    into the air, there was considerable uneasiness <lb/>among us lest the native
+                    population . . . fraught with <lb/>unpleasant consequences to all, . . . English
+                    ladies <lb/>in the company. . . . I own that my hand went to my <lb/>cutlass.
+                    Happily," he continues in his somewhat long- <lb/>winded style, “these fears
+                    seemed, for the moment, <lb/>groundless and, observing the demeanour of the
+                    natives, <lb/>I came to the conclusion that this demonstration <lb/>of our skill
+                    in the art of pyrotechny was valuable, . . . <lb/>because it impressed upon them
+                    . . . superiority of the <lb/>British. . . . Indeed, the sight was one of
+                    indescribable <lb/>magnificence. I found myself alternately praising the
+                    <lb/>Lord that he had permitted . . . and wishing that my <lb/>poor, dear
+                    mother. . . . By the Ambassador’s orders, <lb/>the long windows, which are so
+                    imposing a feature of <lb/>Eastern architecture, for though ignorant in many
+                    ways <lb/>were thrown wide; and within, we could see a <lb/>tableau vivant or
+                    theatrical display in which English <lb/>ladies and gentlemen . . . represented
+                    a masque the <lb/>work of one .... The words were inaudible, but the <lb/>sight
+                    of so many of our countrymen and women, dressed <lb/><fw type="pageNum"
+                        rend="center" n="127">127</fw>
+                    <pb n="12"/>
+                    <lb/><fw type="header" rend="center">ORLANDO</fw>
+                    <lb/>with the highest elegance and distinction . . . moved <lb/>me to emotions
+                    of which I am certainly not ashamed, <lb/>though unable. . . . I was intent upon
+                    observing the <lb/>astonishing conduct of Lady ——— which was of a nature <lb/>to
+                    fasten the eyes of all upon her, and to bring discredit <lb/>upon her sex and
+                    country, when"—— unfortunately a <lb/>branch of the ]udas tree broke, Lieutenant
+                    Brigge fell to <lb/>the ground, and the rest of the entry records only his
+                    <lb/>gratitude to Providence (who plays a very large part in <lb/>the diary) and
+                    the exact nature of his injuries. </p>
+                <p>Happily, Miss Penelope Hartopp, daughter of the <lb/>General of that name, saw
+                    the scene from inside and <lb/>carries on the tale in a letter, much defaced
+                    too, which <lb/>ultimately reached a female friend at Tunbridge Wells. <lb/>Miss
+                    Penelope was no less lavish in her enthusiasm than <lb/>the gallant officer.
+                    "Ravishing,” she exclaims ten times <lb/>on one page, “wondrous . . . utterly
+                    beyond descrip- <lb/>tion . . . gold plate . . . candelabras . . . negroes
+                    <lb/>in plush breeches . . . pyramids of ice . . . fountains <lb/>of negus . . .
+                    jellies made to represent His Majesty's <lb/>ships . . . swans made to represent
+                    water lilies . . . <lb/>birds in golden cages . . . gentlemen in slashed crim-
+                    <lb/>son velvet . . . Ladies' headdresses <emph rend="italics">at least</emph>
+                    six foot <lb/>high . . . musical boxes .... Mr. Peregrine said I <lb/>looked
+                    quite lovely which I only repeat to you, my dear- <lb/>est, because I know. . .
+                    . Oh! how I longed for you <lb/><fw type="pageNum" rend="center" n="128"
+                        >128</fw>
+                    <pb n="13"/>
+                    <lb/><fw type="header" rend="center">ORLANDO</fw>
+                    <lb/>all! . . . surpassing anything we have seen at the Pan- <lb/>tiles . . .
+                    oceans to drink . . . some gentlemen over- <lb/>come . . . Lady Betty ravishing.
+                    . . . Poor Lady Bon- <lb/>ham made the unfortunate mistake of sitting down with-
+                    <lb/>out a chair beneath her. . . . Gentlemen all very gal- <lb/>lant . . .
+                    wished a thousand times for you and dearest <lb/>Betsy. . . . But the sight of
+                    all others, the sinecure of <lb/>all eyes . . . as all admitted, for none could
+                    be so vile <lb/>as to deny it, was the Ambassador himself. Such a leg! <lb/>Such
+                    a countenance!! Such princely manners!!! To see <lb/>him come into the room! To
+                    see him go out again! And <lb/>something <emph rend="italics">interesting</emph>
+                    in the expression, which makes <lb/>one feel, one scarcely knows why, that he
+                    has <emph rend="italics">suffered!</emph>
+                    <lb/>They say a lady was the cause of it. The heartless mon- <lb/>ster!!! How
+                    can one of our <emph rend="italics">reputed tender sex</emph> have had <lb/>the
+                    effrontery!!! He is unmarried, and half the ladies in <lb/>the place are wild
+                    for love of him. . . A thousand, <lb/>thousand kisses to Tom, Gerry, Peter, and
+                    dearest Mew" <lb/>[presumably her cat] . </p>
+                <p>From the Gazette of the time, we gather that “as the <lb/>clock struck twelve,
+                    the Ambassador appeared on the <lb/>centre Balcony which was hung with priceless
+                    rugs. Six <lb/>Turks of the Imperial Body Guard, each over six foot in
+                    <lb/>height, held torches to his right and left. Rockets rose <lb/>into the air
+                    at his appearance, and a great shout went up <lb/>from the people, which the
+                    Ambassador acknowledged, <lb/><fw type="pageNum" rend="center" n="129">129</fw>
+                    <pb n="14"/>
+                    <lb/><fw type="header" rend="center">ORLANDO</fw>
+                    <lb/>bowing deeply, and speaking a few words of thanks in <lb/>the Turkish
+                    language, which it was one of his accom- <lb/>plishments to speak with fluency.
+                    Next, Sir Adrian <lb/>Scrope, in the full dress of a British Admiral advanced;
+                    <lb/>the Ambassador knelt on one knee; the Admiral placed <lb/>the Collar of the
+                    Most Noble Order of the Bath round his <lb/>neck, then pinned the Star to his
+                    breast; after which <lb/>another gentleman of the diplomatic corps advancing
+                    <lb/>in a stately manner placed on his shoulders the ducal <lb/>robes, and
+                    handed him on a crimson cushion, the ducal <lb/>coronet." </p>
+                <p>At length, with a gesture of extraordinary majesty <lb/>and grace, first bowing
+                    profoundly, then raising himself <lb/>proudly erect, Orlando took the golden
+                    circlet of straw- <lb/>berry leaves and placed it, with a gesture which none
+                    <lb/>that saw it ever forgot, upon his brows. It was at this <lb/>point that the
+                    first disturbance began. Either the people <lb/>had expected a miracle——some say
+                    a shower of gold was <lb/>prophesied to fall from the skies——which did not hap-
+                    <lb/>pen, or this was the signal chosen for the attack to begin; <lb/>nobody
+                    seems to know; but as the coronet settled on Or- <lb/>lando's brows a great
+                    uproar rose. Bells began ringing; <lb/>the harsh cries of the prophets were
+                    heard above the <lb/>shouts of the people; many Turks fell flat to the ground
+                    <lb/>and touched the earth with their foreheads. A door burst <lb/>open. The
+                    natives pressed into the banqueting rooms. <lb/><fw type="pageNum" rend="center"
+                        n="130">130</fw>
+                    <pb n="15"/>
+                    <lb/><fw type="header" rend="center">ORLANDO</fw>
+                    <lb/>Women shrieked. A certain lady, who was said to be <lb/>dying for love of
+                    Orlando, seized a candelabra and <lb/>dashed it to the ground. What might not
+                    have happened, <lb/>had it not been for the presence of Sir Adrian Scrope and
+                    <lb/>a squad of British bluejackets, nobody can say. But the <lb/>Admiral
+                    ordered the bugles to be sounded; a hundred <lb/>bluejackets stood instantly at
+                    attention; the disorder was <lb/>quelled, and quiet, at least for the time
+                    being, fell upon <lb/>the scene. </p>
+                <p>So far, we are on the firm, it rather narrow, ground <lb/>of ascertained truth.
+                    But nobody has ever known exactly <lb/>what took place later that night. The
+                    testimony of the <lb/>sentries and others seems, however, prove that the Em-
+                    <lb/>bassy was empty of company, and shut up for the night <lb/>in the usual way
+                    by two A.M. The Ambassador was seen <lb/>to go to his room, still wearing the
+                    insignia of his rank, <lb/>and shut the door. Some say he locked it, which was
+                    <lb/>against his custom. Others maintain that they heard <lb/>music of a rustic
+                    kind, such as shepherds play, later that <lb/>night in the courtyard under the
+                    Ambassador`s window. <lb/>A washer-woman, who was kept awake by a toothache
+                    <lb/>said that she saw a man's figure, wrapped in a cloak or <lb/>dressing gown,
+                    come out upon the balcony. Then, she <lb/>said, a woman, much muffled, but
+                    apparently of the <lb/>peasant class was drawn up by means of a rope which the
+                    <lb/>man let down to her on to the balcony. There, the <lb/><fw type="pageNum"
+                        rend="center" n="131">131</fw>
+                    <pb n="16"/>
+                    <lb/><fw type="header" rend="center">ORLANDO</fw>
+                    <lb/>washer-woman said, they embraced passionately “like <lb/>lovers,’ and went
+                    into the room together, drawing the <lb/>curtains so that no more could be seen. </p>
+                <p>Next morning, the Duke, as we must now call him, <lb/>was found by his
+                    secretaries sunk in profound slumber <lb/>amid bed clothes that were much
+                    tumbled. The room <lb/>was in some disorder, his coronet having rolled on the
+                    <lb/>floor, and his cloak and garter being flung all of a heap <lb/>on a chair.
+                    The table was littered with papers. No sus- <lb/>picion was felt at first, as
+                    the fatigues of the night had <lb/>been great. But when afternoon came and he
+                    still slept, <lb/>a doctor was summoned. He applied the remedies which <lb/>had
+                    been used on the previous occasion, plasters, nettles, <lb/>emetics, etc., but
+                    without success. Orlando slept on. His <lb/>secretaries then thought it their
+                    duty to examine the <lb/>papers on the table. Many were scribbled over with
+                    <lb/>poetry, in which frequent mention was made of an oak <lb/>tree. There were
+                    also various state papers and others of <lb/>a private nature concerning the
+                    management of his es <lb/>tates in England. But at length they came upon a docu·
+                    <lb/>ment of far greater significance. It was nothing less, <lb/>indeed, than a
+                    deed of marriage, drawn up, signed, and <lb/>witnessed between his Lordship,
+                    Orlando, Knight of <lb/>the Garter, etc. etc. etc., and Rosina Pepita, a dancer,
+                    <lb/>father unknown, but reputed a gipsy, mother also un- <lb/>known but reputed
+                    a seller of old iron in the market- <lb/><fw type="pageNum" rend="center"
+                        n="132">132</fw>
+                    <pb n="17"/>
+                    <lb/><fw type="header" rend="center">ORLANDO</fw>
+                    <lb/>place over against the Galata Bridge. The secretaries <lb/>looked at each
+                    other in dismay. And still Orlando slept. <lb/>Morning and evening they watched
+                    him, but, save that <lb/>his breathing was regular and his cheeks still flushed
+                    <lb/>their habitual deep rose, he gave no sign of life. What <lb/>ever science
+                    or ingenuity could do to waken him they <lb/>did. But still he slept. </p>
+                <p>On the seventh day of his trance (Thursday, May the <lb/>1Oth) the first shot was
+                    fired of that terrible and bloody <lb/>insurrection of which Lieutenant Brigge
+                    had detected <lb/>the first symptoms. The Turks rose against the Sultan,
+                    <lb/>set fire to the town, and put every foreigner they could <lb/>find, either
+                    to the sword or to the bastinado. A few Eng- <lb/>lish managed to escape; but,
+                    as might have been ex- <lb/>pected, the gentlemen of the British Embassy
+                    preferred <lb/>to die in defence of their red boxes, or, in extreme cases,
+                    <lb/>to swallow bunches of keys rather than let them fall into <lb/>the hands of
+                    the Infidel.The rioters broke into Orlando’s <lb/>room, but seeing him stretched
+                    to all appearance dead <lb/>they left him untouched, and only robbed him of his
+                    <lb/>coronet and the robes of the Garter. </p>
+                <p>
+                    <lb/>And now again obscurity descends, and would indeed <lb/>that it were
+                    deeper! Would, we almost have it in our <lb/>hearts to exclaim, that it were so
+                    deep that we could see <lb/>nothing whatever through its opacity! Would that we
+                    <lb/>might here take the pen and write Finis to our work! <lb/><fw
+                        type="pageNum" rend="center" n="133">133</fw>
+                    <pb n="18"/>
+                    <lb/><fw type="header" rend="center">ORLANDO</fw>
+                    <lb/>Would that we might spare the reader what is to come <lb/>and say to him in
+                    so many words, Orlando died and was <lb/>buried. But here, alas, Truth, Candour,
+                    and Honesty, <lb/>the austere Gods who keep watch and ward by the ink <lb/>pot
+                    of the biographer, cry No! Putting their silver trum- <lb/>pets to their lips
+                    they demand in one blast, Truth! And <lb/>again they cry Truth! and sounding yet
+                    a third time in <lb/>concert they peal forth, The Truth and nothing but the
+                    <lb/>Truth! </p>
+                <p>At which——Heaven be praised! for it affords us a <lb/>breathing space——the doors
+                    gently open, as if a breath <lb/>of the gentlest and holiest Zephyr had wafted
+                    them apart, <lb/>and three figures enter. First, comes our Lady of Purity; `
+                    <lb/>whose brows are bound with fillets of the whitest lambs <lb/>wool; whose
+                    hair is an avalanche of the driven snow; <lb/>and in whose hand reposes the
+                    white quill of a virgin <lb/>goose. Following her, but with a statelier step,
+                    comes <lb/>our Lady of Chastity; on whose brow is set like a turret <lb/>of
+                    burning but unwasting fire a diadem of icicles; her <lb/>eyes are pure stars,
+                    and her fingers, if they touch you, i <lb/>freeze you to the bone. Close behind
+                    her, sheltering n <lb/>deed in the shadow of her more stately sisters, comes our
+                    <lb/>Lady of Modesty, frailest and fairest of the three; whose <lb/>face is only
+                    shown as the young moon shows when it is <lb/>thin and sickle shaped and half
+                    hidden among clouds. <lb/>Each advances towards the centre of the room where
+                        <lb/><fw type="pageNum" rend="center" n="134">134</fw>
+                    <pb n="19"/>
+                    <lb/><fw type="header" rend="center">ORLANDO</fw>
+                    <lb/>Orlando still lies sleeping; and with gestures at once ap- <lb/>pealing and
+                    commanding, <emph rend="italics">Our Lady of Purity</emph> speaks <lb/>first:
+                        <lb rend="indent"/>"I am the guardian of the sleeping fawn; the snow is
+                    <lb/>dear to me; and the moon rising; and the silver sea. With <lb/>my robes I
+                    cover the speckled hen`s eggs and the brin- <lb/>dled sea shell; I cover vice
+                    and poverty. On all things <lb/>frail or dark or doubtful, my veil descends.
+                    Wherefore, <lb/>speak not, reveal not. Spare, O spare! <lb rend="indent"/>Here
+                    the trumpets peal forth. <lb rend="indent"/>‘Purity Avaunt! Begone Purity!</p>
+                <p>Then <emph rend="italics">Our Lady Chastity</emph> speaks: <lb rend="indent"/>“I
+                    am she whose touch freezes and whose glance turns <lb/>to stone. I have stayed
+                    the star in its dancing, and the <lb/>wave as it falls. The highest Alps are my
+                    dwelling place; <lb/>and when I walk, the lightnings flash in my hair; where
+                    <lb/>my eyes fall, they kill. Rather than let Orlando wake, I <lb/>will freeze
+                    him to the bone. Spare, O spare! <lb rend="indent"/>Here the trumpets peal
+                    forth. <lb rend="indent"/>"Chastity Avaunt! Begone Chastity!"</p>
+                <p>Then <emph rend="indent">Our Lady of Modesty</emph> speaks, so low that one
+                    <lb/>can hardly hear: <lb/>`I am she that men call Modestv. Virgin I am and
+                    <lb/>ever shall be. Not for me the fruitful fields and the fer <lb/>tile
+                    vineyard. Increase is odious to me; and when the <lb/>apples burgeon or the
+                    flocks breed. I run, I run; I let <lb/><fw type="pageNum" rend="center" n="135"
+                        >135</fw>
+                    <pb n="20"/>
+                    <lb/><fw type="header" rend="center">ORLANDO</fw>
+                    <lb/>my mantle fall. My hair covers my eyes. I do not see. <lb/>Spare, O Spare!"
+                        <lb rend="indent"/>Again the trumpets peal forth: <lb rend="indent"
+                    />"Modesty Avaunt! Begone Modesty!" </p>
+                <p>With gestures of grief and lamentation the three sisters <lb/>now join hands and
+                    dance slowly, tossing their veils and <lb/>singing as they go: <lb rend="indent"
+                    />"Truth, come not out from your horrid den. Hide <lb/>deeper, fearful Truth.
+                    For you flaunt in the brutal gaze <lb/>of the sun things that were better
+                    unknown and un- <lb/>done; you unveil the shameful; the dark you make clear.
+                    <lb/>Hide! Hide! Hide!" </p>
+                <p> Here they make as if to cover Orlando with their <lb/>draperies. The trumpets,
+                    meanwhile, still hlare forth: ”` <lb rend="indent"/>"The Truth and nothing but
+                    the Truth." </p>
+                <p>At this the Sisters try to cast their veils over the mouths <lb/>of the trumpets
+                    so as to muffle them, but in vain, for now <lb/>all trumpets blare forth
+                    together. <lb rend="indent"/>"Horrid Sisters, go!"</p>
+                <p>The Sisters become distracted and wail in unison,still <lb/>circling and flinging
+                    their veils up and down. <lb rend="indent"/>"It has not always been so! But men
+                    want us no <lb/>longer; the women detest us. We go; we go. I <emph
+                        rend="italics">(Purity <lb/>says this)</emph> to the hen roost. I <emph
+                        rend="italics">(Chastity says this)</emph> to the <lb/>still unravished
+                    heights of Surrey. I <emph rend="italics">(Modesty says this)</emph>
+                    <lb/>to any cosy nook where there are curtains in plenty. <lb/><fw
+                        type="pageNum" rend="center" n="136">136</fw>
+                    <pb n="21"/>
+                    <lb/><fw type="header" rend="center">ORLANDO</fw>
+                    <lb rend="indent"/>"For there, not here (all speak together joining hands
+                    <lb/>and making gestures of farewell and despair towards the <lb/>bed where
+                    Orlando lies sleeping) dwell still in nest and <lb/>boudoir, office and lawcourt
+                    those who love us; those <lb/>who honour us, virgins and city men; lawyers and
+                    doc- <lb/>tors; those who prohibit; those who deny; those who <lb/>reverence
+                    without knowing why; those who praise with- <lb/>out understanding; the still
+                    very numerous (Heaven be <lb/>praised) tribe of the respectable; who prefer to
+                    see not; <lb/>desire to know not; love the darkness; those still worship
+                    <lb/>us, and with reason; for we have given them VVealth, <lb/>Prosperity,
+                    Comfort, Ease. To them we go, you we leave. <lb/>Come, Sisters come! This is no
+                    place for us here." </p>
+                <p> They retire in haste, waving their draperies over their <lb/>heads, as if to
+                    shut out something that they dare not look <lb/>upon and close the door behind
+                    them. </p>
+                <p>We are, therefore, now left entirely alone in the room <lb/>with the sleeping
+                    Orlando and the trumpeters. The <lb/>trumpeters, ranging themselves side by side
+                    in order, <lb/>blow one terrific blast: <lb rend="indent"/><emph rend="capitals"
+                        >"The Truth!"</emph>
+                    <lb/>at which Orlando woke.</p>
+                <p>
+                    <lb/>He stretched himself. He rose. He stood upright in <lb/>complete nakedness
+                    before us, and while the trumpets <lb/>pealed Truth! Truth! Truth! we have no
+                    choice left but <lb/>confess——he was a woman.</p>
+                <lb/>
+                <fw type="pageNum" rend="center" n="137">137</fw>
+                <pb n="22"/>
+                <lb/>
+                <fw type="header" rend="center">ORLANDO</fw>
+                <p>The sound of the trumpets died away and Orlando <lb/>stood stark naked. No human
+                    being, since the world <lb/>began, has ever looked more ravishing. His form com-
+                    ` <lb/>bined in one the strength of a man and a womans grace. <lb/>As he stood
+                    there, the silver trumpets prolonged their <lb/>note, as if reluctant to leave
+                    the lovely sight which their <lb/>blast had called forth; and Chastity, Purity,
+                    and Mod- <lb/>esty, inspired, no doubt, by Curiosity, peeped in at the <lb/>door
+                    and threw a garment like a towel at the naked form <lb/>which, unfortunately,
+                    fell short by several inches. Or- <lb/>lando looked himself up and down in a
+                    long looking <lb/>glass, without showing any signs of discomposure, and
+                    <lb/>went, presumably, to his bath. </p>
+                <p>We may take advantage of this pause in the narrative <lb/>to make certain
+                    statements. Orlando had become a wom- <lb/>an——there is no denying it. But in
+                    every other respect, <lb/>Orlando remained precisely as he had been. The change
+                    <lb/>of sex, though it altered their future, did nothing what <lb/>ever to alter
+                    their identity. Their faces remained, as their <lb/>portraits prove, practically
+                    the same. His memory--but <lb/>in future we must, for convention's sake, say
+                    'her' for <lb/>‘his,’ and ‘she’ for ‘he’—— her memory then, went back
+                    <lb/>through all the events of her past life without encounter- <lb/>ing any
+                    obstacle. Some slight haziness there may have <lb/>been, as if a few dark drops
+                    had fallen into the clear pool <lb/>of memory; certain things had become a
+                    little dimmed; <lb/><fw type="pageNum" rend="center" n="138">138</fw>
+                    <pb n="23"/>
+                    <lb/><fw type="header" rend="center">ORLANDO</fw>
+                    <lb/>but that was all. The change seemed to have been accom- <lb/>plished
+                    painlessly and completely and in such a way that <lb/>Orlando herself showed no
+                    surprise at it. Many people, <lb/>taking this into account, and holding that
+                    such a change <lb/>of sex is against nature, have been at great pains to prove
+                    <lb/>(1) that Orlando had always been a woman, (2) that <lb/>Orlando is at this
+                    moment a man. Let biologists and <lb/>psychologists determine. It is enough for
+                    us to state the <lb/>simple fact; Orlando was a man till the age of thirty;
+                    <lb/>when he became a woman and has remained so ever since. </p>
+                <p>But let other pens treat of sex and sexuality; we quit <lb/>such odious subjects
+                    as soon as we can. Orlando had now <lb/>washed, and dressed herself in those
+                    Turkish coats and <lb/>trousers which can be worn indifferently by either sex;
+                    <lb/>and was forced to consider her position. That it was pre- <lb/>carious and
+                    embarrassing in the extreme must be the first <lb/>thought of every reader who
+                    has followed her story with <lb/>sympathy. Young, noble, beautiful, she had
+                    woken to <lb/>find herself in a position than which we can conceive <lb/>none
+                    more delicate for a young lady of rank. We should <lb/>not have blamed her had
+                    she rung the bell, screamed, or <lb/>fainted. But Orlando showed no such signs
+                    of pertur- <lb/>bation. All her actions were deliberate in the extreme, <lb/>and
+                    might indeed have been thought to show tokens of <lb/>premeditation. First, she
+                    carefully examined the papers <lb/>on the table; took such as seemed to be
+                    written in poetry, <lb/><fw type="pageNum" rend="center" n="139">139</fw>
+                    <pb n="24"/>
+                    <lb/><fw type="header" rend="center">ORLANDO</fw>
+                    <lb/>and secreted them in her bosom; next she called her Se- <lb/>leuchi
+                    hound,which had never left her bed all these days, <lb/>though half famished
+                    with hunger, fed and combed <lb/>him; then stuck a pair of pistols in her belt;
+                    finally wound <lb/>about her person several strings of emeralds and pearls
+                    <lb/>of the finest orient which had formed part of her Ambas- <lb/>sadorial
+                    wardrobe. This done, she leant out of the win- <lb/>dow, gave one low whistle,
+                    and descended the shattered <lb/>and bloodstained staircase, now strewn with the
+                    litter of <lb/>waste paper baskets, treaties, despatches, seals, sealing
+                    <lb/>wax, etc., and so entered the courtyard. There, in the <lb/>shadow of a
+                    giant fig tree waited an old Gipsy on a don- <lb/>key. He led another by the
+                    bridle. Orlando swung her <lb/>leg over it; and thus, attended by a lean dog,
+                    riding a <lb/>donkey, in company of a gipsy, the Ambassador of <lb/>Great
+                    Britain at the Court of the Sultan left Constan- <lb/>tinople </p>
+                <p>They rode for several days and nights and met with a <lb/>variety of adventures,
+                    some at the hands of men, some at <lb/>the hands of nature, in all of which
+                    Orlando acquitted <lb/>herself with courage. Within a week they reached the
+                    <lb/>high ground outside Broussa which was then the chief <lb/>camping ground of
+                    the gipsy tribe to which Orlando had <lb/>allied herself. Often she had looked
+                    at those mountains <lb/>from her balcony at the Embassy; often had longed to be
+                    <lb/>there; and to find oneself where one has longed to be <lb/><fw
+                        type="pageNum" rend="center" n="140">140</fw>
+                    <pb n="25"/>
+                    <lb/><fw type="header" rend="center">ORLANDO</fw>
+                    <lb/>always, to a reflective mind, gives food for thought. For <lb/>some time,
+                    however, she was too well pleased with the <lb/>change to spoil it by thinking.
+                    The pleasure of having <lb/>no documents to seal, or sign, no flourishes to
+                    make, no <lb/>calls to pay was enough. The gipsies followed the grass; <lb/>when
+                    it was grazed down, on they moved again. She <lb/>washed in streams if she
+                    washed at all; no boxes, red, <lb/>blue, or green were presented to her; there
+                    was not a key, <lb/>let alone a golden key in the whole camp; as for ‘visiting,’
+                    <lb/>the word was unknown. She milked the goats; she col- <lb/>lected brushwood;
+                    she stole a hen’s egg now and then, <lb/>but always put a coin or a pearl in
+                    place of it; she herded <lb/>cattle; she stripped vines; she trod the grape; she
+                    filled <lb/>the goat-skin and drank from it; and when she remem- <lb/>bered how,
+                    at about this time of day, she should have <lb/>been making the motions of
+                    drinking and smoking over <lb/>an empty coffee cup and a pipe which lacked
+                    tobacco, she <lb/>laughed aloud, cut herself another hunch of bread, and
+                    <lb/>begged for a puff from old Rustum’s pipe, filled though <lb/>it was with
+                    cow dung. </p>
+                <p>The gipsies, with whom it is obvious that she must <lb/>have been in secret
+                    communication before the revolu- <lb/>tion, seem to have looked upon her as one
+                    of themselves <lb/>(which is always the highest compliment a people can
+                    <lb/>pay) and her dark hair and dark complexion bore out <lb/>the belief that
+                    she was, by birth, one of them and had <lb/><fw type="pageNum" rend="center"
+                        n="141">141</fw>
+                    <pb n="26"/>
+                    <lb/><fw type="header" rend="center">ORLANDO</fw>
+                    <lb/>been snatched by an English Duke from a nut tree when <lb/>she was a baby
+                    and taken to that barbarous land where <lb/>people live in houses because they
+                    are too feeble and dis- <lb/>eased to stand the open air. Thus, though in many
+                    ways <lb/>inferior to them, they were willing to help her to become <lb/>more
+                    like them; taught her their arts of cheese-making <lb/>and basket-weaving, their
+                    science of stealing and bird- <lb/>snaring, and were even prepared to consider
+                    letting her <lb/>marry among them. </p>
+                <p>But Orlando had contracted in England some of the <lb/>customs or diseases
+                    (whatever you choose to consider <lb/>them) which cannot, it seems, be expelled.
+                    One eve- <lb/>ning, when they were all sitting round the camp fire an <lb/>the
+                    sunset was blazing over the Thessalian hills, Orlando <lb/>exclaimed: <lb
+                        rend="indent"/>“How good to eat!” <lb rend="indent"/>(The gipsies have no
+                    word for ‘beautiful.` This is the <lb/>nearest.) </p>
+                <p>All the young men and women burst out laughing <lb/>uproariously. The sky good to
+                    eat, indeed! The elders, <lb/>however, who had seen more of foreigners than they
+                    <lb/>had, became suspicious. They noticed that Orlando often <lb/>sat for whole
+                    hours doing nothing whatever, except look <lb/>here and then there; they would
+                    come upon her on some <lb/>hill-top staring straight in front of her, no matter
+                    whether <lb/>the goats were grazing or straying. They began to sus- <lb/><fw
+                        type="pageNum" rend="center" n="142">142</fw>
+                    <pb n="27"/>
+                    <lb/><fw type="header" rend="center">ORLANDO</fw>
+                    <lb/>pect that she had other beliefs than their own and the <lb/>elder men and
+                    women thought it probable that she had <lb/>fallen into the clutches of the
+                    vilest and cruelest among <lb/>all the Gods, which is Nature. Nor were they far
+                    wrong. <lb/>The English disease, a love of Nature, was inborn in her, <lb/>and
+                    here where Nature was so much larger and more <lb/>powerful than in England, she
+                    fell into its hands as she <lb/>had never done before. The malady is too well
+                    known, <lb/>and has been, alas, too often described to need describing
+                    <lb/>afresh,save very briefly.There were mountains; there were <lb/>valleys;
+                    there were streams. She climbed the mountains; <lb/>roamed the valleys; sat on
+                    the banks of the streams. She <lb/>likened the hills to ramparts, and the plains
+                    to the flanks <lb/>of kine. She compared the flowers to enamel and the turf
+                    <lb/>to Turkey rugs worn thin.Trees were withered hags, and <lb/>sheep were grey
+                    boulders. Everything, in fact, was some <lb/>thing else. She found the tarn on
+                    the mountain-top and <lb/>almost threw herself in to seek the wisdom she thought
+                    <lb/>lay hid there; and when, from the mountain-top, she <lb/>beheld, far off,
+                    across the Sea of Marmara the plains of <lb/>Greece, and made out (her eyes were
+                    admirable) the <lb/>Acropolis with a white streak or two which must, she
+                    <lb/>thought, be the Parthenon, her soul expanded with her <lb/>eyeballs, and
+                    she prayed that she might share the maj- <lb/>esty of the hills, know the
+                    serenity of the plains, etc., etc., <lb/>as all such believers do. Then, looking
+                    down, the red <lb/><fw type="pageNum" rend="center" n="143">143</fw>
+                    <pb n="28"/>
+                    <lb/><fw type="header" rend="center">ORLANDO</fw>
+                    <lb/>hyacinth, the purple iris wrought her to cry out in ecstasy <lb/>at the
+                    goodness, the beauty of nature; raising her eyes <lb/>again, she beheld the
+                    eagle soaring, and imagined its <lb/>raptures and made them her own. Returning
+                    home, she <lb/>saluted each star, each peak, and each watch-fire as if <lb/>they
+                    signalled to her alone; and at last, when she flung <lb/>herself upon her mat in
+                    the gipsies' tent, she could not <lb/>help bursting out again, How good to eat!
+                    How good to <lb/>eat! (For it is a curious fact that though human beings
+                    <lb/>have such imperfect means of communication, that they <lb/>can only say
+                    ‘good to eat’ when they mean ‘beautiful' and <lb/>the other way about, they will
+                    yet endure ridicule and <lb/>misunderstanding rather than keep any experience to
+                    <lb/>themselves.) All the young gipsies laughed. But Rus- <lb/>tum el Sadi, the
+                    old man who had brought Orlando out <lb/>of Constantinople on his donkey, sat
+                    silent. He had a <lb/>nose like a scimitar; his cheeks were furrowed as if from
+                    <lb/>the age-long descent of iron hail; he was brown and <lb/>keen-eyed, and as
+                    he sat tugging at his hookah he ob- <lb/>served Orlando narrowly. He had the
+                    deepest suspicion <lb/>that her God was Nature. One day, he found her in
+                    <lb/>tears. Interpreting this to mean that her God had pun- <lb/>ished her, he
+                    told her that he was not surprised. He <lb/>showed her the fingers of his left
+                    hand, withered by the <lb/>frost; he showed her his right foot, crushed where a
+                    rock <lb/>had fallen. This, he said, was what her God did to men. <lb/><fw
+                        type="pageNum" rend="center" n="144">144</fw>
+                    <pb n="29"/>
+                    <lb/><fw type="header" rend="center">ORLANDO</fw>
+                    <lb/>When she said, “But so beautiful," using the English <lb/>word, he shook
+                    his head; and when she repeated it he <lb/>was angry. He saw that she did not
+                    believe what he be- <lb/>lieved, and that was enough, wise and ancient as he
+                    was, <lb/>to enrage him. </p>
+                <p>This difference of opinion disturbed Orlando, who <lb/>had been perfectly happy
+                    until now. She began to think, <lb/>was Nature beautiful or cruel; and then she
+                    asked herself <lb/>what this beauty was; whether it was in things them-
+                    <lb/>selves, or only in herself; so she went on to the nature of <lb/>reality,
+                    which led her to truth, which in its turn, led to <lb/>Love, Friendship, Poetry
+                    (as in the days on the high <lb/>mound at home) which meditations, since she
+                    could im- <lb/>part no word of them, made her long, as she had never <lb/>longed
+                    before, for pen and ink. </p>
+                <p>‘Oh! if only l could write !” she cried (for she had the <lb/>odd conceit of
+                    those who write that words written are <lb/>shared). She had no ink; and but
+                    little paper. But she <lb/>made ink from berries and wine; and finding a few
+                    <lb/>margins and blank spaces in the manuscript of “The Oak <lb/>Tree,” managed,
+                    by writing a kind of shorthand to de- <lb/>scribe the scenery in a long, blank
+                    verse poem, and to <lb/>carry on a dialogue with herself about this Beauty and
+                    <lb/>Truth concisely enough. This kept her extremely happy <lb/>for hours on
+                    end. But the gipsies became suspicious. <lb/>First, they noticed that she was
+                    less adept than before at <lb/><fw type="pageNum" rend="center" n="145">145</fw>
+                    <pb n="30"/>
+                    <lb/><fw type="header" rend="center">ORLANDO</fw>
+                    <lb/>milking and cheese-making; next, she often hesitated <lb/>before replying;
+                    and once a gipsy boy who had been <lb/>asleep, woke in a terror feeling her eyes
+                    upon him. Some <lb/>times this constraint would be felt by the whole tribe,
+                    <lb/>numbering some dozens of grown men and women. It <lb/>sprang from the sense
+                    they had (and their senses are very <lb/>sharp and much in advance of their
+                    vocabulary) that <lb/>whatever they were doing crumbled like ashes in their
+                    <lb/>hands. An old woman making a basket, a boy skinning <lb/>a sheep, would be
+                    singing or crooning contentedly at <lb/>their work, when Orlando would come into
+                    the camp, <lb/>fling herself down by the fire and gaze into the flames. <lb/>She
+                    need not even look at them, and yet they felt, here <lb/>is someone who doubts;
+                    (we make a rough-and-ready <lb/>translation from the gipsy language) here is
+                    someone <lb/>who does not do the thing for the sake of doing; nor <lb/>looks for
+                    looking`s sake; here is someone who believes <lb/>neither in sheep—skin nor
+                    basket; but sees (here they <lb/>looked apprehensively about the tent) something
+                    else. <lb/>Then a vague but most unpleasant feeling would begin to <lb/>work in
+                    the boy and in the old woman. They broke their <lb/>withys; they cut their
+                    fingers. A great rage filled them. <lb/>They wished Orlando would leave the tent
+                    and never <lb/>come near them again. Yet she was of a cheerful and <lb/>willing
+                    disposition, they owned; and one of her pearls <lb/>was enough to buy the finest
+                    herd of goats in Broussa.</p>
+                <lb/>
+                <fw type="pageNum" rend="center" n="146">146</fw>
+                <pb n="31"/>
+                <lb/>
+                <fw type="header" rend="center">ORLANDO</fw>
+                <p>Slowly, she began to feel that there was some differ- <lb/>ence between her and
+                    the gipsies which made her hesi- <lb/>tate sometimes to marry and settle down
+                    among them <lb/>for ever. At first she tried to account for it by saying that
+                    <lb/>she came of an ancient and civilised race, whereas these <lb/>gipsies were
+                    an ignorant people, not much better than <lb/>savages. One night when they were
+                    questioning her <lb/>about England she could not help with some pride de-
+                    <lb/>scribing the house where she was born, how it had 365 <lb/>bedrooms and had
+                    been in the possession of her family <lb/>for four or five hundred years. Her
+                    ancestors were earls, <lb/>or even dukes, she added. At this she noticed again
+                    that <lb/>the gipsies were uneasy; but not angry as before when <lb/>she had
+                    praised the beauty of nature. Now they were <lb/>courteous, but concerned as
+                    people of fine breeding are <lb/>when a stranger has been made to reveal his low
+                    birth or <lb/>poverty. Rustum followed her out of the tent alone and <lb/>said
+                    that she need not mind if her father were a Duke, <lb/>and possessed all the
+                    bedrooms and furniture that she <lb/>described. They would none of them think
+                    the worse of <lb/>her for that. Then she was seized with a shame that she
+                    <lb/>had never felt before. It was clear that Rustum and the <lb/>other gipsies
+                    thought a descent of four or five hundred <lb/>years only the meanest possible.
+                    Their own families went <lb/>back at least two or three thousand years. To the
+                    gipsy <lb/>whose ancestors had built the Pyramids centuries before <lb/><fw
+                        type="pageNum" rend="center" n="147">147</fw>
+                    <pb n="32"/>
+                    <lb/><fw type="header" rend="center">ORLANDO</fw>
+                    <lb/>Christ was born, the genealogy of Howards and Plan- <lb/>tagenets was no
+                    better and no worse than that of the <lb/>Smiths and the ]oneses: both were
+                    negligible. More- <lb/>over, where the shepherd boy had a lineage of such an-
+                    <lb/>tiquity, there was nothing specially memorable or de- <lb/>sirable in
+                    ancient birth; vagabonds and beggars all shared <lb/>it. And then, though he was
+                    too courteous to speak <lb/>openly, it was clear that the gipsy thought that
+                    there was <lb/>no more vulgar ambition than to possess bedrooms by <lb/>the
+                    hundred (they were on top of a hill as they spoke; it <lb/>was night; the
+                    mountains rose around them) when the <lb/>whole earth is ours. Looked at from
+                    the gipsy point of <lb/>view, a Duke, Orlando understood, was nothing but a
+                    <lb/>profiteer or robber who snatched land and money from <lb/>people who rated
+                    these things of little worth, and could <lb/>think of nothing better to do than
+                    to build three hun- <lb/>dred and sixty-five bedrooms when one was enough, and
+                    <lb/>none was even better than one. She could not deny <lb/>that her ancestors
+                    had accumulated field after field; <lb/>house after house; honour after honour;
+                    yet had none <lb/>of them been saints or heroes, or great benefactors of
+                    <lb/>the human race. Nor could she counter the argument <lb/>(Rustum was too
+                    much of a gentleman to press it, but <lb/>she understood) that any man who did
+                    now what her an- <lb/>cestors had done three or four hundred years ago would
+                    <lb/>be denounced——and by her own family most loudly <lb/><fw type="pageNum"
+                        rend="center" n="148">148</fw>
+                    <pb n="33"/>
+                   
+                    <lb/><fw type="header" rend="center">ORLANDO</fw>
+                    <lb/>——for a vulgar upstart, an adventurer, a <emph rend="italics">nouveau
+                        riche.</emph>
+                </p>
+                <p>She sought to answer such arguments by the familiar <lb/>if oblique method of
+                    finding the Gipsy life itself rude <lb/>and barbarous; and so, in a short time,
+                    much bad blood <lb/>was bred between them. Indeed, such differences of
+                    <lb/>opinion are enough to cause bloodshed and revolution. <lb/>Towns have been
+                    sacked for less, and a million martyrs <lb/>have suffered at the stake rather
+                    than yield an inch upon <lb/>any of the points here debated. No passion is
+                    stronger in <lb/>the breast of man than the desire to make others believe
+                    <lb/>as he believes. Nothing so cuts at the root of his happi- <lb/>ness and
+                    fills him with rage as the sense that another rates <lb/>low what he prizes
+                    high.Whigs and Tories, Liberal party <lb/>and Labour party——for what do they
+                    battle except their <lb/>own prestige? It is not love of truth, but desire to
+                    prevail <lb/>that sets quarter against quarter and makes parish desire <lb/>the
+                    downfall of parish. Each seeks peace of mind and <lb/>subserviency rather than
+                    the triumph of truth and the <lb/>exaltation of virtue——But these moralities
+                    belong, and <lb/>should be left to the historian, since they are as dull as
+                    <lb/>ditch water.</p>
+                <p>"Four hundred and seventy-six bedrooms mean noth- <lb/>ing to them," sighed
+                    Orlando. <lb rend="indent"/>"She prefers a sunset to a flock of goats," said the
+                    <lb/>Gipsies.</p>
+                <p>What was to be done, Orlando could not think. To <lb/><fw type="pageNum"
+                        rend="center" n="149">149</fw>
+                    <pb n="34"/>
+                    <lb/><fw type="header" rend="center">ORLANDO</fw>
+                    <lb/>leave the gipsies and become once more an Ambassador <lb/>seemed to her
+                    intolerable. But it was equally impossible <lb/>to remain for ever where there
+                    was neither ink nor writ- <lb/>ing paper, neither reverence for the Talbots, nor
+                    respect <lb/>for a multiplicity of bedrooms. So she was thinking, one <lb/>fine
+                    morning on the slopes of Mount Athos, when mind- <lb/>ing her goats. And then
+                    Nature, in whom she trusted, <lb/>either played her a trick or worked a
+                    miracle—again, <lb/>opinions dififer too much for it to be possible to say
+                    which. <lb/>Orlando was gazing rather disconsolately at the steep <lb/>hill-side
+                    in front of her. It was now midsummer, and if <lb/>we must compare the landscape
+                    to anything it would <lb/>have been to a dry bone; to a sheep’s skeleton; to a
+                    gigan- <lb/>tic skull picked white by a thousand vultures. The heat <lb/>was
+                    intense and the little fig-tree under which Orlando <lb/>lay only served to
+                    print patterns of fig-leaves upon her <lb/>light burnous. </p>
+                <p>Suddenly, a shadow, though there was nothing to cast <lb/>a shadow, appeared on
+                    the bald mountain-side opposite. <lb/>It deepened quickly and soon a green
+                    hollow showed <lb/>where there had been barren rock before. As she looked,
+                    <lb/>the hollow deepened and widened, and a great park—like <lb/>space opened in
+                    the flank of the hill. Within, she could <lb/>see an undulating and grassy lawn;
+                    she could see oak <lb/>trees dotted here and there; she could see the thrushes
+                    <lb/>hopping among the branches. She could see the deer <lb/><fw type="pageNum"
+                        rend="center" n="150">150</fw>
+                    <pb n="35"/>
+                    <lb/><fw type="header" rend="center">ORLANDO</fw>
+                    <lb/>stepping delicately from shade to shade, and could even <lb/>hear the hum
+                    of insects and the gentle sighs and shivers <lb/>of a summer's day in England.
+                    After she had gazed en <lb/>tranced for some time, snow began falling; soon the
+                    <lb/>whole landscape was covered and marked with violet <lb/>shades instead of
+                    yellow sunlight. Now she saw heavy <lb/>carts coming along the roads, laden with
+                    tree trunks, <lb/>which they were taking, she knew, to be sawn for fire-
+                    <lb/>wood; and then there appeared the roofs and belfries and <lb/>towers and
+                    courtyards of her own home. The snow was <lb/>falling steadily, and she could
+                    now hear the slither and <lb/>flop which it made as it slid down the roof and
+                    fell to the <lb/>ground. The smoke went up from a thousand chimneys. <lb/>All
+                    was so clear and minute that she could see a daw <lb/>pecking for worms in the
+                    snow. Then, gradually, the <lb/>violet shadows deepened and closed over the
+                    carts and <lb/>the lawns and the great house itself. All was swallowed <lb/>up.
+                    Now there was nothing left of the grassy hollow, <lb/>and instead of the green
+                    lawns was only the blazing hill- <lb/>side which a thousand vultures seemed to
+                    have picked <lb/>bare. At this, she burst into a passion of tears, and strid-
+                    <lb/>ing back to the gipsies' camp, told them that she must <lb/>sail for
+                    England the very next day. </p>
+                <p>It was happy for her that she did so. Already the young <lb/>men had plotted her
+                    death. Honour, they said, de- <lb/>manded it, for she did not think as they did.
+                    Yet they <lb/><fw type="pageNum" rend="center" n="151">151</fw>
+                    <pb n="36"/>
+                    <lb/><fw type="header" rend="center">ORLANDO</fw>
+                    <lb/>would have been sorry to cut her throat; and welcomed <lb/>the news of her
+                    departure. An English merchant ship, <lb/>as luck would have it, was already
+                    under sail in the har- <lb/>bour about to return to England; and Orlando, by
+                    break- <lb/>ing of another pearl from her necklace not only paid her
+                    <lb/>passage but had some banknotes left over in her wallet. <lb/>These she
+                    would have liked to present to the gipsies. But <lb/>they despised wealth she
+                    knew; and she had to content <lb/>herself with embraces, which on her part were
+                    sincere. <lb/><fw type="pageNum" rend="center" n="151">151</fw>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
